@@ -1,0 +1,12 @@
+﻿# Dial plan backup snapshots & rollback logs
+backups/*.json
+backups/*.csv
+*.json
+*.csv
+*.log
+
+# Editor & IDE workspace artifacts
+.vscode/
+.idea/
+*.suo
+*.user
